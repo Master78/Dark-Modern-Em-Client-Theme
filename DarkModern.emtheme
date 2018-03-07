@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <DefaultColorTheme name="Dark Modern" author="Matthias Dunkel">
     <!--Form-->
     <MainBoxBorderColor description="Color of a space around messages/contact/event/task list">#3C3F41
